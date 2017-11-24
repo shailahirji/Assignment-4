@@ -3,10 +3,11 @@
 // Author      :Dr Fatma Serce
 // Modified    :Shaila Hirji
 // Copyright   : Your copyright notice
-// Description : This class is a generic implementation of LinkedList using 				nodeLLs
+// Description : This class is a generic implementation of LinkedList using 				
 //              Modifications were made to this class by adding an :
 //                                                      insert() function
 //                                                      existing deletenodeLL() function was modified
+//              This class was used when implementing the filter feature of the Phone Book App 
 
 //============================================================================
 #ifndef LINKEDLIST_H_
